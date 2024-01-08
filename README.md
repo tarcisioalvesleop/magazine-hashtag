@@ -1,0 +1,3 @@
+# magazine-hashtag
+
+Intensivão Javascript
