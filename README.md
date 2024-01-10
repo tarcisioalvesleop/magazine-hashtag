@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![principal](https://github.com/tarcisioalvesleop/magazine-hashtag/commit/e041de5e2af500bff89050f2ab4ad2656674e049)
+  ![principal](https://github.com/tarcisioalvesleop/magazine-hashtag/blob/main/assets/projeto.png)
 </div>
 
 ## Sobre o Projeto
